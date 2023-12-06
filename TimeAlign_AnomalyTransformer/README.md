@@ -1,0 +1,4 @@
+Source code for Assessing the Impact of the COVID-19 Pandemic on Electricity Consumption: A Machine Learning Approach: 
+
+Sorce code contains the time align algorithm and Anomaly Transformer (a novel framework for anomaly detection in time series data: https://github.com/thuml/Anomaly-Transformer). The complete data analysis workflow is in Reproductivity.
+The complete data analysis workflow is provided in the Reproductivity file, which includes data preprocessing, model training, evaluation, and visualization. The code is written in Python and requires PyTorch, NumPy, SciPy, and Matplotlib libraries.
